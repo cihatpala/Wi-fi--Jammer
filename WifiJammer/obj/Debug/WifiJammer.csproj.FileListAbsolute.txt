@@ -1,0 +1,11 @@
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\bin\Debug\WifiJammer.exe.config
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\bin\Debug\WifiJammer.exe
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\bin\Debug\WifiJammer.pdb
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\obj\Debug\WifiJammer.csprojResolveAssemblyReference.cache
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\obj\Debug\WifiJammer.Properties.Resources.resources
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\obj\Debug\WifiJammer.csproj.GenerateResource.Cache
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\obj\Debug\WifiJammer.exe
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\obj\Debug\WifiJammer.pdb
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\obj\Debug\WifiJammer.AnaForm.resources
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\bin\Debug\PacketDotNet.dll
+c:\users\turgut\documents\visual studio 2015\Projects\WifiJammer\WifiJammer\bin\Debug\SharpPcap.dll
